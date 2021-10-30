@@ -1,4 +1,4 @@
 # shincheonji
-```sql
+```
 hello?
 ```
