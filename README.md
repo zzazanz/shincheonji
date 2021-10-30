@@ -1,6 +1,4 @@
-# shincheonji
-
-# UNION SQL INJECTION
+# shincheonji (UNION SQL INJECTION)
 
 order by: 어떤것으로 정렬 하겠다
 ```
