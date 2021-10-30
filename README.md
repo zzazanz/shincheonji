@@ -1,4 +1,4 @@
-# shincheonji (UNION SQL INJECTION) 신천지 기준
+# shincheonji (UNION SQL INJECTION)
 
 order by: 어떤것으로 정렬 하겠다
 * * *
